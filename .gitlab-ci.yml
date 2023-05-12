@@ -1,5 +1,5 @@
 development:
-  type: deploy
+  stage: deploy
   environment: production
   script:
   - mkdir ~/.aws/
