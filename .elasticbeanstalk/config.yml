@@ -5,6 +5,6 @@ global:
   application_name: funwitheb
   default_ec2_keyname: funwitheb-ci
   default_platform: 64bit Amazon Linux 2016.03 v2.1.5 running PHP 7.0
-  default_region: ap-southeast-1
+  default_region: us-east-1
   profile: eb-cli
   sc: git
