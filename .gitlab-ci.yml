@@ -9,4 +9,4 @@ development:
   - printf "[profile eb-cli]\nregion=ap-southeast-1\noutput=json" >> ~/.aws/config
   - eb deploy Php-EB-env
   only:
-  - main
+  - master
